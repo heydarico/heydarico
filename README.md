@@ -9,6 +9,7 @@ I enjoy working on blockchain integrations, automated systems, and modern web ap
 ## 🧠 About Me
 - 💼 Backend Developer (PHP/Laravel)
 - 🔗 Working with crypto infrastructures (TON, Solana, multi-chain systems)
+- ✍️ Experienced in explaining complex concepts and mentoring junior developers.
 - 🤖 Builder of automation systems & high-traffic Telegram bots  
 - ⚙️ Experienced in deploying and managing Linux-based servers  
 - 🚀 Focused on writing clean, maintainable, and scalable backend architectures
